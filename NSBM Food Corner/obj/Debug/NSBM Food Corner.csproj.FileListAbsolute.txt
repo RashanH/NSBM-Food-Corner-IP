@@ -1,0 +1,59 @@
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\bin\Debug\NSBM Food Corner.exe
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\bin\Debug\NSBM Food Corner.pdb
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM Food Corner.csprojAssemblyReference.cache
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form1.resources
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Properties.Resources.resources
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM Food Corner.csproj.GenerateResource.cache
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM Food Corner.csproj.CoreCompileInputs.cache
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM Food Corner.exe
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM Food Corner.pdb
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form2.resources
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form3.resources
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form4.resources
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form5.resources
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form6.resources
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form7.resources
+C:\Users\B1X\source\repos\NSBM Food Corner\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form8.resources
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\bin\Debug\NSBM Food Corner.exe
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\bin\Debug\NSBM Food Corner.pdb
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.csprojAssemblyReference.cache
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form1.resources
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form2.resources
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form3.resources
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form4.resources
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form5.resources
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form6.resources
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form7.resources
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form8.resources
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Properties.Resources.resources
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.csproj.GenerateResource.cache
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.csproj.CoreCompileInputs.cache
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.exe
+C:\Users\A1X\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.pdb
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\NSBM Food Corner.exe
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\NSBM Food Corner.pdb
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.csprojAssemblyReference.cache
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form1.resources
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form2.resources
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form3.resources
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form4.resources
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form5.resources
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form6.resources
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form7.resources
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Form8.resources
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM_Food_Corner.Properties.Resources.resources
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.csproj.GenerateResource.cache
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.csproj.CoreCompileInputs.cache
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.exe
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.pdb
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\JWT.dll
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\obj\Debug\NSBM Food Corner.csproj.CopyComplete
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\Twilio.dll
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\Twilio.xml
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\MailKit.dll
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\MimeKit.dll
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\MailKit.xml
+C:\Users\BiX\Desktop\Source\NSBM Food Corner\bin\Debug\MimeKit.xml
